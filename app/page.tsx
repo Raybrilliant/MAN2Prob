@@ -24,7 +24,7 @@ export default function Home() {
             <Navbar />
           </TextAnimate>
           <div
-            className={`${bowlby.className} text-8xl text-white text-center mx-auto my-auto max-lg:text-5xl`}
+            className={`${bowlby.className} text-8xl text-white text-center mx-auto my-auto max-lg:text-4xl`}
           >
             Membentuk Generasi <EmojiAnimate>👨‍🎓</EmojiAnimate> Unggul Berbasis
             <span className="hover:text-[#E6A65A] transition-all ease-out duration-200 cursor-grab">

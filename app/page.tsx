@@ -70,7 +70,7 @@ export default function Home() {
               Meraih Kampus Impian Mereka!
             </h2>
           </TextAnimate>
-          <div className="flex justify-around my-10 max-lg:grid max-lg:grid-cols-2 max-lg:gap-10">
+          <div className="flex justify-around my-10 max-lg:grid max-lg:grid-cols-2 max-lg:gap-5">
             <div className="text-center">
               <div className={`${bowlby.className} font-bold text-8xl mx-auto max-lg:text-5xl`}>
                 <CounterAnimate target={90} />%
